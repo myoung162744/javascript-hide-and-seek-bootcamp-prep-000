@@ -15,3 +15,7 @@ function increaseRankBy(n) {
     lis[i].innerHTML = calc + n
   }
 }
+
+function deepestChild() {
+  var e = document.getElementById('grand-node').querySelectorAll()
+}
